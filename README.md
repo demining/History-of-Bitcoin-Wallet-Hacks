@@ -1,8 +1,5 @@
 
 		
-	
-	<div class="entry-content">
-		
 <figure class="wp-block-image"><img src="./Historical background regarding Bitcoin Wallet Hacks CRYPTO DEEP TECH_files/G020DB-1024x576.png" alt="Historical background regarding bitcoin wallet hacks" class="wp-image-1456"></figure>
 
 
